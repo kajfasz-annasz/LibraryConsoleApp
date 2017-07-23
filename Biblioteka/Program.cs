@@ -15,6 +15,8 @@ namespace Biblioteka
 
         static void Main(string[] args)
         {
+            Console.SetWindowSize(Math.Min(120, Console.LargestWindowWidth), Math.Min(30, Console.LargestWindowHeight));
+
             bool aplicationExit = false;
             bool userLoggedIn = false;
             bool lendingBookListManager = false;
