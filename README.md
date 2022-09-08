@@ -2,7 +2,7 @@
 
 ### Opis aplikacji
 
-Aplikacja konsolowa wykonana na potrzeby projektu zaliczeniowego koła naukowego KOLOR UG.
+Aplikacja konsolowa (C#) wykonana na potrzeby projektu zaliczeniowego koła naukowego KOLOR UG.
 
 W aplikacji występują 2 role: użytkownik (czytelnik) oraz bibliotekarz (pracownik).
 
