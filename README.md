@@ -1,4 +1,4 @@
-# Panel Biblioteczny
+Library Console App
 
 ### Opis aplikacji
 
