@@ -45,3 +45,17 @@ Dane do logowania:
 ### Uruchamianie aplikacji
 
 Aby uruchomić aplikację należy pobrać wszystkie pliki z repozytorium i otworzyć przy użyciu oprogramowania Visual Studio
+
+### Prezentacja aplikacji
+
+* Panel główny
+
+![img_1](Images/scr_1.png)
+
+* Lista książek wypożyczonych przez użytkownika
+
+![img_2](Images/scr_2.png)
+
+* Lista książek do wypożyczenia
+
+![img_3](Images/scr_3.png)
